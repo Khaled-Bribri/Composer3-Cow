@@ -1,0 +1,12 @@
+{
+    "name": "composer/quete2",
+    "authors": [
+        {
+            "name": "Khaled Bribri",
+            "email": "94048267+Khaled-Bribri@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "gipetto/cowsay": "^1.1"
+    }
+}
